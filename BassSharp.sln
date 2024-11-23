@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BassSharp", "BassSharp\BassSharp.csproj", "{490C7962-892E-40AF-8DA8-0473BB301DA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BassSharp.Demo", "BassSharp.Demo\BassSharp.Demo.csproj", "{89447F62-1C9C-49C8-94EC-67491F7BE95E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{490C7962-892E-40AF-8DA8-0473BB301DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{490C7962-892E-40AF-8DA8-0473BB301DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{490C7962-892E-40AF-8DA8-0473BB301DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{490C7962-892E-40AF-8DA8-0473BB301DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89447F62-1C9C-49C8-94EC-67491F7BE95E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89447F62-1C9C-49C8-94EC-67491F7BE95E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89447F62-1C9C-49C8-94EC-67491F7BE95E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89447F62-1C9C-49C8-94EC-67491F7BE95E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
