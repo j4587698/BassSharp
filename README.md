@@ -10,6 +10,6 @@ This is for my personal use, and at present, only the self-use components are fu
 
 * Install the NuGet package
 ```
-Install-Package BassSharp
+Install-Package JxBassSharp
 ```
 * Download the BASS libraries from http://un4seen.com and place them in Build Output Directory.

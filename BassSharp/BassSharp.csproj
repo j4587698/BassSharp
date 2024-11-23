@@ -12,9 +12,10 @@
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <PackageReadmeFile>README.md</PackageReadmeFile>
-        <PackageProjectUrl>https://github.com/j4587698/JxAudio</PackageProjectUrl>
-        <RepositoryUrl>https://github.com/j4587698/JxAudio</RepositoryUrl>
-        <PackageTags>ffmpeg</PackageTags>
+        <PackageId>JxBassSharp</PackageId>
+        <PackageProjectUrl>https://github.com/j4587698/BassSharp</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/j4587698/BassSharp</RepositoryUrl>
+        <PackageTags>bass</PackageTags>
     </PropertyGroup>
 
     <ItemGroup>
